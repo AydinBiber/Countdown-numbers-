@@ -1,7 +1,9 @@
+// Numbers as per the rules of Countdown.
 var bigNumbers = [
     100, 75, 50, 25
 ];
 
+// Numbers as per the rules of Countdown.
 var littleNumbers = [
     10, 9, 8, 7, 6, 5, 4, 3, 2, 1,
     10, 9, 8, 7, 6, 5, 4, 3, 2, 1
